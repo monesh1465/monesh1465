@@ -7,13 +7,9 @@ I’m a Computer Science Engineering student passionate about cloud infrastructu
 💡 What I Do
 
 ☁️ Build and manage private & public cloud environments (AWS, OpenStack, Proxmox)
-
 ⚙️ Design DevOps pipelines using Docker, Jenkins, and GitOps concepts
-
 🧩 Work with microservices & full-stack applications
-
 🛠️ Deploy, optimize, and monitor applications for performance and reliability
-
 📚 Continuously learn by building and documenting hands-on projects
 
 🧰 Tech Stack
@@ -28,26 +24,20 @@ Tools: Git, GitHub, Linux, MobaXterm
 📌 Featured Interests
 
 Cloud Architecture & Cost Optimization
-
 DevOps Automation & CI/CD Pipelines
-
 Microservices & Distributed Systems, Networking
-
 Infrastructure Design for Scalable Web Apps
 
 🌱 Currently Learning
 
 Kubernetes, GitOps (ArgoCD, Helm) and some advanced DevOps tools
-
 Advanced AWS,Azure
-
 Production-grade system design
 
 📫 Connect With Me
 
 📧 Email: monish1465@gmail.com
-
-💼 LinkedIn: linkedin.com/in/monesh-r-1465m
+💼 LinkedIn: https://www.linkedin.com/in/monesh-r-1465m
 
 ⭐ “Learning by building. Improving by breaking. Scaling by design.”## Hi there 👋
 
