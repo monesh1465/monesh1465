@@ -39,7 +39,7 @@ Production-grade system design
 📧 Email: monish1465@gmail.com
 💼 LinkedIn: https://www.linkedin.com/in/monesh-r-1465m
 
-⭐ “Learning by building. Improving by breaking. Scaling by design.”## Hi there 👋
+⭐ “Learning by building. Improving by breaking. Scaling by design.”
 
 <!--
 **monesh1465/monesh1465** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
