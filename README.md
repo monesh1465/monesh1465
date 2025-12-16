@@ -7,31 +7,45 @@ I’m a Computer Science Engineering student passionate about cloud infrastructu
 💡 What I Do
 
 ☁️ Build and manage private & public cloud environments (AWS, OpenStack, Proxmox)
+
 ⚙️ Design DevOps pipelines using Docker, Jenkins, and GitOps concepts
+
 🧩 Work with microservices & full-stack applications
+
 🛠️ Deploy, optimize, and monitor applications for performance and reliability
+
 📚 Continuously learn by building and documenting hands-on projects
 
 🧰 Tech Stack
 
 Languages: Java, JavaScript, Shell Scripting
+
 Cloud: AWS, OpenStack (DevStack & MicroStack)
+
 DevOps: Docker, Jenkins, Nginx, CI/CD, IaC basics
+
 Databases: MySQL, MongoDB, Redis
+
 Virtualization: Proxmox, VMware, VirtualBox
+
 Tools: Git, GitHub, Linux, MobaXterm
 
 📌 Featured Interests
 
 Cloud Architecture & Cost Optimization
+
 DevOps Automation & CI/CD Pipelines
+
 Microservices & Distributed Systems, Networking
+
 Infrastructure Design for Scalable Web Apps
 
 🌱 Currently Learning
 
 Kubernetes, GitOps (ArgoCD, Helm) and some advanced DevOps tools
+
 Advanced AWS,Azure
+
 Production-grade system design
 
 📫 Connect With Me
