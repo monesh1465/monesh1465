@@ -5,6 +5,10 @@ Cloud & DevOps Engineer | AWS Certified Cloud Practitioner | RHCSA Certified
 </h3>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=Cloud+and+DevOps+Engineer;Building+Scalable+Cloud+Solutions;AWS+%7C+Docker+%7C+Kubernetes;Automation+%7C+Infrastructure+%7C+Cloud+Native" alt="Typing SVG" />
+</p>
+
+<p align="center">
 Computer Science and Engineering Undergraduate passionate about Cloud Infrastructure, Kubernetes, DevOps, and Cloud-Native Technologies.
 </p>
 
